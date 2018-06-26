@@ -1,0 +1,1 @@
+## coding pattern for golang

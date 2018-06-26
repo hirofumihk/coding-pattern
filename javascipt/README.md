@@ -1,0 +1,2 @@
+## coding pattern for javascript
+
